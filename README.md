@@ -1,2 +1,4 @@
 # e-commerce
-run seeder  php artisan db:seed --class=UserSeeder
+for admin login credentials
+run seeder
+php artisan db:seed --class=UserSeeder
